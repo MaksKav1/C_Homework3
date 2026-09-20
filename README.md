@@ -20,7 +20,7 @@
 7. 
 ### Блок-схема
 
-![Блок-схема](block_scheme.png)
+![Блок-схема](block_scheme.drawio%20%282%29.png)
 
 [Ссылка на блок-схему, созданную в draw.io](https://drive.google.com/file/d/1Jap3wI6TLvi__6MD9r6VhUWP2T_K11Jf/view?usp=drive_link)
 ## 2. Реализация программы
